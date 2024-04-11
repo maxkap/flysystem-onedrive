@@ -1,6 +1,6 @@
 <?php
 
-namespace Justus\FlysystemOneDrive;
+namespace Maxkap\FlysystemOneDrive;
 
 abstract class OneDriveUtilityAdapter
 {
