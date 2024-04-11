@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxkap\FlysystemOneDrive;
+namespace Justus\FlysystemOneDrive;
 
 use Exception;
 use GuzzleHttp\Exception\GuzzleException;
