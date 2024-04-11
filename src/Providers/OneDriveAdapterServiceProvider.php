@@ -1,11 +1,11 @@
 <?php
 
-namespace Maxkap\FlysystemOneDrive\Providers;
+namespace Justus\FlysystemOneDrive\Providers;
 
 use Illuminate\Filesystem\FilesystemAdapter;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\ServiceProvider;
-use Maxkap\FlysystemOneDrive\OneDriveAdapter;
+use Justus\FlysystemOneDrive\OneDriveAdapter;
 use League\Flysystem\Filesystem;
 use Microsoft\Graph\Graph;
 
